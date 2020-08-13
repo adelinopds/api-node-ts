@@ -4,6 +4,8 @@
   "description": "Typescript | Jest | MongoDB | Express",
   "main": "index.js",
   "scripts": {
+    "build": "npx tsc",
+    "start": "npm run build && node dist/src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/adelinopds/api-node-ts/issues"
   },
-  "homepage": "https://github.com/adelinopds/api-node-ts#readme"
+  "homepage": "https://github.com/adelinopds/api-node-ts#readme",
+  "devDependencies": {
+    "@types/module-alias": "^2.0.0",
+    "@types/node": "^14.0.27",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "module-alias": "^2.2.2"
+  }
 }
