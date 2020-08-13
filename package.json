@@ -1,0 +1,20 @@
+{
+  "name": "api-node-ts",
+  "version": "1.0.0",
+  "description": "Typescript | Jest | MongoDB | Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelinopds/api-node-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adelinopds/api-node-ts/issues"
+  },
+  "homepage": "https://github.com/adelinopds/api-node-ts#readme"
+}
