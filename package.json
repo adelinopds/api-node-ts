@@ -1,7 +1,7 @@
 {
   "name": "api-node-ts",
   "version": "1.0.0",
-  "description": "Typescript | Jest | MongoDB | Express",
+  "description": "API REST | Typescript | Jest | MongoDB | Express",
   "main": "index.js",
   "scripts": {
     "build": "npx tsc",
@@ -13,8 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/adelinopds/api-node-ts.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["API","REST","TS","JS","NODE","MONGODB"],
+  "author": "Adelino Pereira",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/adelinopds/api-node-ts/issues"
