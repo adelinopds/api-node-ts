@@ -23,12 +23,13 @@
     "MONGODB"
   ],
   "author": "Adelino Pereira",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/adelinopds/api-node-ts/issues"
   },
   "homepage": "https://github.com/adelinopds/api-node-ts#readme",
   "devDependencies": {
+    "@types/jest": "^26.0.9",
     "@types/module-alias": "^2.0.0",
     "@types/node": "^14.0.27",
     "@typescript-eslint/eslint-plugin": "^3.9.0",
@@ -36,6 +37,8 @@
     "eslint": "^7.6.0",
     "eslint-import-resolver-typescript": "^2.2.0",
     "eslint-plugin-import": "^2.22.0",
+    "jest": "^26.4.0",
+    "ts-jest": "^26.2.0",
     "ts-node-dev": "^1.0.0-pre.57",
     "typescript": "^3.9.7"
   },
